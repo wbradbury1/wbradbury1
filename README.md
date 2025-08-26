@@ -10,7 +10,7 @@
 ## 🔧 Skills
 - **Programming:** Python (NumPy, pandas, matplotlib, yfinance, statsmodels)  
 - **Math/Finance (core):** Probability, Linear Algebra, Mathematical Modelling, Real Analysis, Backtesting  
-- **Currently learning:** Stochastic Processes, Time Series Analysis (second-year modules)  
+- **Currently learning:** Stochastic Processes, Time Series Analysis 
 - **Tools:** Jupyter Notebook, Git/GitHub, LaTeX  
 
 ---
