@@ -19,7 +19,7 @@
 - [SMA Crossover Backtest](https://github.com/wbradbury1/sma-crossover-backtest)  
   Implemented and tested a moving average crossover strategy, compared against Buy & Hold, with risk/return metrics and plots.  
 
-- [Quant Projects Index](https://github.com/wbradbury1/quant-projects)  
+- [Momentum Factor Equity Strategy](https://github.com/wbradbury1/momentum-factor-equity-strategy)   
   Implemented and backtested a cross-sectional 12–1 momentum equity strategy on the S&P 500, with long-only and long/short variants, evaluated using risk/return metrics and equity curve plots. 
 
 ---
