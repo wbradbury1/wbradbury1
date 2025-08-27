@@ -20,7 +20,7 @@
   Implemented and tested a moving average crossover strategy, compared against Buy & Hold, with risk/return metrics and plots.  
 
 - [Quant Projects Index](https://github.com/wbradbury1/quant-projects)  
-  A portfolio index linking together my algorithmic trading and quantitative finance projects.  
+  Implemented and backtested a cross-sectional 12–1 momentum equity strategy on the S&P 500, with long-only and long/short variants, evaluated using risk/return metrics and equity curve plots. 
 
 ---
 
